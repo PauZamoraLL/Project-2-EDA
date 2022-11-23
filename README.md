@@ -1,4 +1,4 @@
-# Project-2-EDA
+# Credit Default EDA
 
 ![alt text](https://www.simplilearn.com/ice9/free_resources_article_thumb/financial-risk-and-types-rar131-article.jpg)
 
